@@ -1,0 +1,1 @@
+cd C:\Users\Dell\eclipse-workspace\inet_BankingV1 mvn clean install
